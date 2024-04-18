@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/vikashchaurasia"><img src="https://api.daily.dev/devcards/v2/BzbMqMJX3n3qnltIblbOS.png?type=default&r=bm7" width="356" alt="vikash chaurasia's Dev Card"/></a>
+
 <!--
 **vikash-chaurasiya/vikash-chaurasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
